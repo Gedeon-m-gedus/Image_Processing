@@ -8,3 +8,4 @@ This repository contains notebook for common image processing operations
 5. Geometric transformation on an image
 6. Smoothing an image
 7. Morphological transformation of image
+8. Image gradient
