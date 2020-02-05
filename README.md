@@ -1,5 +1,5 @@
 # Image_Processing
-This repository contains notebook for common image processing operations
+This repository contains notebook for common image processing operations using OpenCV
 
 1. Basic image operations on image
 2. Arthimetic operations on image
@@ -9,3 +9,6 @@ This repository contains notebook for common image processing operations
 6. Smoothing an image
 7. Morphological transformation of image
 8. Image gradient
+9. ImageGradient
+10. CannyEdgeDetection
+11. ImagePyramids
