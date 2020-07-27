@@ -1,5 +1,5 @@
 # Image_Processing
-This repository contains notebook for common image processing operations using OpenCV
+This repository contains notebook for common image processing operations using OpenCV and other advanced machine learning and computer vision models
 
 1. Basic image operations on image
 2. Arthimetic operations on image
