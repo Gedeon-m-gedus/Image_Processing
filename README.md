@@ -13,4 +13,4 @@ This repository contains notebook for common image processing operations using O
 10. CannyEdgeDetection
 11. ImagePyramids
 
-#### Deep learning
+#### Deep learning Models
