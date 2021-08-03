@@ -1,4 +1,7 @@
 # Image_Processing
+[![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](https://opensource.org/licenses/MIT)
+
+
 This repository contains notebook for common image processing operations using OpenCV and other advanced machine learning and computer vision models
 
 1. Basic image operations on image
